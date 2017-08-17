@@ -1,4 +1,8 @@
 ARCHIVO DE EDICION GIT 
 segundo comit
+
 Creando comnflicto 
 ***
+
+ARCHIVO EN CONLICTO 
+MODIFICACIONE N CONFLICO
